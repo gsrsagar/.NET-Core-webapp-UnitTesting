@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMediaLinkedIn", "SocialMediaLinkedIn\SocialMediaLinkedIn.csproj", "{11AD6FEA-CDA9-4890-94E5-B7C9FD7F7CDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTest", "XUnitTestProject\XTest.csproj", "{44D71B61-E457-4A70-AFDD-D5B9E300A49A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7D18BB3-6E1E-4A5E-B926-B063AD786F5A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AD6FEA-CDA9-4890-94E5-B7C9FD7F7CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AD6FEA-CDA9-4890-94E5-B7C9FD7F7CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AD6FEA-CDA9-4890-94E5-B7C9FD7F7CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AD6FEA-CDA9-4890-94E5-B7C9FD7F7CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D71B61-E457-4A70-AFDD-D5B9E300A49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D71B61-E457-4A70-AFDD-D5B9E300A49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D71B61-E457-4A70-AFDD-D5B9E300A49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D71B61-E457-4A70-AFDD-D5B9E300A49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36304B16-2420-45C7-A345-764D32213AB8}
+	EndGlobalSection
+EndGlobal

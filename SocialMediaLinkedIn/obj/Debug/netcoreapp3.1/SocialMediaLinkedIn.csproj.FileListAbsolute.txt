@@ -1,0 +1,329 @@
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.exe
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.AzureAppServicesIntegration.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.Manifest.cache
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.xml
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfoInputs.cache
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfo.cs
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cache
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CopyComplete
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.deps.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.dev.json
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOE-Load\source\repos\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csprojAssemblyReference.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.exe
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.deps.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.dev.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.Manifest.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.xml
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfoInputs.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfo.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CopyComplete
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.input.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.output.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorCoreGenerate.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csprojAssemblyReference.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Runtime.InteropServices.PInvoke.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOE-Load\source\repos\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfoInputs.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.exe
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.deps.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.dev.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.input.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.output.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorCoreGenerate.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CopyComplete
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.Manifest.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.xml
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout1.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\CoreCompat.System.Drawing.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\ListUsers.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csprojAssemblyReference.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.exe
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.deps.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.dev.json
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\CoreCompat.System.Drawing.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csprojAssemblyReference.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfoInputs.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.input.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.output.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorCoreGenerate.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\ListUsers.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout1.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cs
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CopyComplete
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.Manifest.cache
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.xml
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\schithathuru\OneDrive - DXC Production\Desktop\sagar_files\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOE-Load\Documents\SagarFiles\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\Documents\SagarFiles\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.exe
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.deps.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.runtimeconfig.dev.json
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.pdb
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\CoreCompat.System.Drawing.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csprojAssemblyReference.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfoInputs.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.AssemblyInfo.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CoreCompileInputs.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorAssemblyInfo.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.input.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.TagHelpers.output.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorCoreGenerate.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\ListUsers.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout1.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.RazorTargetAssemblyInfo.cs
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.Views.pdb
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.csproj.CopyComplete
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.Manifest.cache
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\staticwebassets\SocialMediaLinkedIn.StaticWebAssets.xml
+C:\Users\SOE-Load\Documents\LinkedInBeta\SocialMediaLinkedIn\obj\Debug\netcoreapp3.1\SocialMediaLinkedIn.genruntimeconfig.cache

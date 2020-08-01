@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# xUnit2018: Do not compare an object's exact type to an abstract class or interface
+dotnet_diagnostic.xUnit2018.severity = none

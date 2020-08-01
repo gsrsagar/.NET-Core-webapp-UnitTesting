@@ -1,0 +1,81 @@
+﻿
+@inject SignInManager<IdentityUser> signInManager
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <environment include="Development,Production">
+        <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <script src="~/lib/jquery/jquery.js"></script>
+        <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    </environment>
+
+
+    <link href="~/css/CustomSheet.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <a class="navbar-brand" asp-action="index" asp-controller="home">
+            <img src="~/images/navbar_img.jpg" asp-append-version="true" width="30" height="30" />
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#collapsibleNavBar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavBar">
+            @if (signInManager.IsSignedIn(User))
+            {
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a asp-action="details" asp-controller="home" class="nav-link">List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="create" asp-controller="home" class="nav-link">Create</a>
+                    </li>
+                </ul>
+            }
+        <ul class="navbar-nav ml-auto">
+            @if (signInManager.IsSignedIn(User))
+            {
+                <li class="nav-item">
+                    <form method="post" asp-action="Logout" asp-controller="account">
+                        <button type="submit" class="nav-link btn btn-link py-0" style="width:auto;">
+                            Logout  @User.Identity.Name
+                        </button>
+                    </form>
+
+                </li>
+            }
+            @if(@ViewBag.PageTitle=="Register")
+            {
+            <li class="nav-item">
+                <a asp-action="Login" asp-controller="account" class="nav-link">Login</a>
+            </li>
+
+            }
+            else
+            {
+            <li class="nav-item">
+                <a asp-action="Register" asp-controller="account" class="nav-link">Register</a>
+            </li>
+            }
+           
+        </ul>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts", required: true)
+    }
+
+
+</body>
+</html>
