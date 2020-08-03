@@ -147,7 +147,7 @@ namespace XUnitTestProject
         {
             IActionResult result;
             result = _accountController.Login();
-            Assert.Null(result);
+            Assert.NotNull(result);
             Assert.IsAssignableFrom<IActionResult>(result);
         }
         [Fact]

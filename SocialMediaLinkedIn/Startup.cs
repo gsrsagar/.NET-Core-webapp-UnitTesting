@@ -116,23 +116,22 @@ namespace SocialMediaLinkedIn
              fileserverOptions.DefaultFilesOptions.DefaultFileNames.Add("foo.html");
              app.UseFileServer(fileserverOptions); */
 
-            app.UseMvc(routes =>
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapRoute("default", "{controller=account}/{action=Login}");
+                endpoints.MapControllers();
             });
 
-            
 
             //sending http context object having response object
             //this is a middleware that first middleware calls and it becomes terminal middleware and all other middlewares
             //won't run 
-            
-           /* app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync(" Hello from middleware");
-              
-            });
-*/
+
+            /* app.Run(async (context) =>
+             {
+                 await context.Response.WriteAsync(" Hello from middleware");
+
+             });
+ */
 
 
 
