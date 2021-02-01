@@ -125,13 +125,13 @@ namespace SocialMediaLinkedIn.Controllers
             val=HttpContext.Session.GetString("Email");
             if(val!=null)
             {
-                return RedirectToAction("details", "home");
+                return Ok(RedirectToAction("details", "home"));
             }
             else
             {
                 val = null;
                 ViewBag.PageTitle = "Login";
-                return View();
+                return Ok(View());
             }
         }
 

@@ -103,23 +103,23 @@ namespace SocialMediaLinkedIn
              app.UseStaticFiles();
              app.UseSession();
              app.UseAuthentication();
-            // app.UseMvcWithDefaultRoute();
+             //app.UseMvcWithDefaultRoute();
 
-            /*app.UseRouting();
+            app.UseRouting();
            app.UseEndpoints(endpoints =>
            {
                endpoints.MapControllers();
            }
-           );*/
+           );
             /* FileServerOptions fileserverOptions = new FileServerOptions();
              fileserverOptions.DefaultFilesOptions.DefaultFileNames.Clear();
              fileserverOptions.DefaultFilesOptions.DefaultFileNames.Add("foo.html");
              app.UseFileServer(fileserverOptions); */
 
-            app.UseEndpoints(endpoints =>
+            /*app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
-            });
+            });*/
 
 
             //sending http context object having response object

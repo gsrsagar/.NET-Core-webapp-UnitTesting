@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SOE-Load\\Documents\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj": {}
+    "C:\\Users\\Sagar Guvvala\\OneDrive - DXC Production\\Documents\\sagar_files\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SOE-Load\\Documents\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj": {
+    "C:\\Users\\Sagar Guvvala\\OneDrive - DXC Production\\Documents\\sagar_files\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SOE-Load\\Documents\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj",
+        "projectUniqueName": "C:\\Users\\Sagar Guvvala\\OneDrive - DXC Production\\Documents\\sagar_files\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj",
         "projectName": "SocialMediaLinkedIn",
-        "projectPath": "C:\\Users\\SOE-Load\\Documents\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj",
-        "packagesPath": "C:\\Users\\SOE-Load\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SOE-Load\\Documents\\LinkedInBeta\\SocialMediaLinkedIn\\obj\\",
+        "projectPath": "C:\\Users\\Sagar Guvvala\\OneDrive - DXC Production\\Documents\\sagar_files\\LinkedInBeta\\SocialMediaLinkedIn\\SocialMediaLinkedIn.csproj",
+        "packagesPath": "C:\\Users\\Sagar Guvvala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sagar Guvvala\\OneDrive - DXC Production\\Documents\\sagar_files\\LinkedInBeta\\SocialMediaLinkedIn\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SOE-Load\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sagar Guvvala\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

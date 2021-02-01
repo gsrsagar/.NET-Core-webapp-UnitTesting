@@ -53,7 +53,7 @@ namespace SocialMediaLinkedIn.Controllers
         public IActionResult Delete(int id)
         {
             Employee employee = _emp.DeleteEmployee(id);
-            return RedirectToAction("Details");
+            return Ok(RedirectToAction("Details"));
         }
 
 
@@ -81,9 +81,9 @@ namespace SocialMediaLinkedIn.Controllers
                     Photopath = uniqueFilename
                 };
                 _emp.EmpSave(newEmployee);
-                return RedirectToAction("index", new { id = newEmployee.Id });
+                return Ok(RedirectToAction("index", new { id = newEmployee.Id }));
             }
-            return View();
+            return Ok(View());
         }
 
 
